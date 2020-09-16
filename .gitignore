@@ -4,6 +4,7 @@ npm-debug.*
 *.ppt*
 build/**/*
 dist/**/*
+.idea/
 
 /app/node_modules
 /app/.expo

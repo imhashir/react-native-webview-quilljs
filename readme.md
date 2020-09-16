@@ -1,5 +1,7 @@
 # React Native Webview Quilljs
 
+## This fork of [react-native-webview-quilljs](https://github.com/reggie3/react-native-webview-quilljs) is the projects which are already depending upon webview but are having some issues because of dependency conflict. 
+
 ## Quill.js editor and viewer components with no native code for React Native apps. This is a purely JavaScript component based on @zenomaro's react-quill project (https://github.com/zenoamaro/react-quill/)
 
 [![npm](https://img.shields.io/npm/v/react-native-webview-quilljs.svg)](https://www.npmjs.com/package/react-native-webview-quilljs)
